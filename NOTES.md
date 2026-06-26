@@ -19,13 +19,18 @@
 - `[✓]` Dates des chocs pétroliers : 1973 et 1979
 - `[✓]` Plan Messmer (programme nucléaire civil) : 1974
 - `[✓]` Acronyme PERCHE : Pompe à chaleur En Relève de CHaudière Existante
-- `[?]` Chiffres de ventes PAC : ~1 000/an → 50 000–70 000/an  
-  → Ordre de grandeur cohérent avec les sources de l'époque, mais à confirmer avec une référence précise
-- `[?]` Effondrement du marché "dès 1984"  
-  → Reformuler prudemment en "vers 1983–1984" sans source chiffrée
+- `[✓]` Campagne PERCHE lancée en 1982, objectif 100 000 unités/an dès 1985  
+  → Source : réponse parlementaire ministère de l'Industrie, 1984
+- `[✓]` COP introduit dès le ch.1 en note de bas de page — remplace "rendement apparent"
+- `[?]` Chiffres de ventes PAC : ~1 000/an → 40 000–50 000/an au pic  
+  → Source : étude ministère de l'Écologie / Termis (site en 404 — non vérifiable en ligne)  
+  → Fourchette 50 000–70 000 abandonnée au profit de 40 000–50 000, plus cohérente avec les sources
+- `[?]` Effondrement du marché : reformulé vers 1983–1986 (contre-choc pétrolier + qualité)  
+  → "Dès 1984" remplacé par une formulation plus prudente incluant le contre-choc de 1986
 - `[✗]` Films EDF "Perche C" et "Perche T"  
-  → Mentionnés dans l'article S&V original — introuvables en ligne, source primaire uniquement
-- `[ ]` Durée de la mauvaise réputation : "près de quinze ans" — à quelle date le marché repart-il ?
+  → Mentionnés dans l'article S&V original — introuvables en ligne, placés en note historique dans le texte
+- `[?]` Durée de la mauvaise réputation : "près de quinze ans"  
+  → Le marché repart vers la fin des années 1990 / début 2000 avec les nouvelles PAC air/air et les progrès des compresseurs scroll — à confirmer
 
 ---
 
