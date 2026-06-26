@@ -4,6 +4,20 @@
 
 ---
 
+## Table des matières / Table of contents
+
+### 🇫🇷 Français
+1. [La France après les chocs pétroliers](docs/fr/chapitre-01.md)
+2. Yves Lenoir & le professeur Suominen *(à venir)*
+3. Les principes techniques *(à venir)*
+
+### 🇬🇧 English
+1. France after the oil crises *(coming soon)*
+2. Yves Lenoir & Professor Suominen *(coming soon)*
+3. Technical principles *(coming soon)*
+
+---
+
 ## Français
 
 ### À propos de ce projet
@@ -29,19 +43,6 @@ Ce document n'est pas la reproduction de l'article publié à l'époque par *Sci
 Ce travail poursuit un double objectif : rendre hommage au remarquable travail de vulgarisation d'Yves Lenoir, disparu en 2024, et montrer que certaines innovations considérées aujourd'hui comme évidentes trouvent leur origine dans des recherches menées plusieurs décennies auparavant.
 
 Au-delà de l'histoire d'une machine, c'est aussi l'histoire d'une idée que nous souhaitons raconter : celle d'une technologie dont les principes fondamentaux étaient déjà connus, mais qui a dû attendre les progrès de l'électronique, des matériaux et de l'industrie pour révéler tout son potentiel.
-
-### Structure du projet
-
-```
-pac-40ans/
-├── README.md           — Ce fichier / This file
-├── LICENSE             — Licence Creative Commons CC BY-SA 4.0
-├── AUTHORS.md          — Auteurs et contributeurs
-├── CONTRIBUTING.md     — Guide de contribution
-└── docs/               — Documentation principale (à venir)
-    ├── fr/             — Version française
-    └── en/             — English version
-```
 
 ### Contribuer
 
@@ -79,19 +80,6 @@ This work has a twofold purpose: to pay tribute to the remarkable science commun
 
 Beyond the history of a machine, it is also the history of an idea that we wish to tell: that of a technology whose fundamental principles were already known, but which had to wait for advances in electronics, materials, and manufacturing to reveal its full potential.
 
-### Project structure
-
-```
-pac-40ans/
-├── README.md           — This file
-├── LICENSE             — Creative Commons CC BY-SA 4.0 licence
-├── AUTHORS.md          — Authors and contributors
-├── CONTRIBUTING.md     — Contribution guide
-└── docs/               — Main documentation (forthcoming)
-    ├── fr/             — French version
-    └── en/             — English version
-```
-
 ### Contributing
 
 Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
@@ -103,4 +91,3 @@ This project is distributed under the [Creative Commons Attribution – ShareAli
 ---
 
 *Publié sur GitHub Pages · Published on GitHub Pages*
-# HeatPumpFromTheCold
