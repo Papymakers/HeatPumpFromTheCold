@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Chapitre 2 — Yves Lenoir & le professeur Suominen"
+description: "Le paradoxe finlandais et l'identification des vrais problèmes de conception"
+lang: fr
+---
+
 # Chapitre 2 — Yves Lenoir & le professeur Suominen : une autre façon de concevoir la pompe à chaleur
 
 ## Le paradoxe finlandais

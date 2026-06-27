@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Chapitre 3 — Les quatre principes de Suominen"
+description: "De l'intuition des années 1980 à la norme mondiale actuelle"
+lang: fr
+---
+
 # Chapitre 3 — Les quatre principes de Suominen : de l'intuition à la norme mondiale
 
 ## Introduction
