@@ -1,15 +1,3 @@
----
-layout: default
-title: "Chapitre 1 — La France après les chocs pétroliers"
-description: "Le contexte énergétique des années 1980 et l'échec du programme PERCHE"
-lang: fr
----
-
-# Chapitre 1 — La France après les chocs pétroliers
-...
-
-# Chapitre 1 — La France après les chocs pétroliers : une urgence énergétique
-
 ## Le contexte : une dépendance brutalement révélée
 
 L'article d'Yves Lenoir est écrit dans un contexte très particulier.

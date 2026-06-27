@@ -1,12 +1,3 @@
----
-layout: default
-title: "Chapitre 3 — Les quatre principes de Suominen"
-description: "De l'intuition des années 1980 à la norme mondiale actuelle"
-lang: fr
----
-
-# Chapitre 3 — Les quatre principes de Suominen : de l'intuition à la norme mondiale
-
 ## Introduction
 
 Les échecs du programme PERCHE n'étaient pas dus à une faille dans la thermodynamique des pompes à chaleur. Ils résultaient de quatre problèmes d'ingénierie précis, que le professeur Suominen avait identifiés et résolus dès le début des années 1980 — pendant que la France tirait des conclusions hâtives sur l'ensemble de la technologie.
