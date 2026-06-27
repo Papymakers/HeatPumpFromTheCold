@@ -1,4 +1,7 @@
-# L'évolution de la pompe à chaleur — 40 ans d'innovations / Heat Pump Evolution — 40 Years of Innovation
+---
+layout: default
+title: "Heat Pump From The Cold"
+---
 
 > 🇫🇷 [Lire en français](#français) · 🇬🇧 [Read in English](#english)
 
@@ -9,7 +12,7 @@
 ### 🇫🇷 Français
 1. [La France après les chocs pétroliers](docs/fr/chapitre-01)
 2. [Yves Lenoir & le professeur Suominen](docs/fr/chapitre-02)
-3. [Les principes techniques](docs/fr/chapitre-03)
+3. [Les quatre principes de Suominen](docs/fr/chapitre-03)
 
 ### 🇬🇧 English
 1. France after the oil crises *(coming soon)*
