@@ -10,6 +10,7 @@
 3. [Les quatre principes de Suominen](https://github.com/Papymakers/HeatPumpFromTheCold/blob/main/docs/fr/chapitre-03.md)
 4. [Quarante ans après : ce qui a changé, ce qui demeure](https://github.com/Papymakers/HeatPumpFromTheCold/blob/main/docs/fr/chapitre-04.md)
 5. [Comprendre les pompes à chaleur modernes](https://github.com/Papymakers/HeatPumpFromTheCold/blob/main/docs/fr/chapitre-05.md)
+6. [Diagnostique & Dépannage ](https://github.com/Papymakers/HeatPumpFromTheCold/blob/main/docs/fr/chapitre-06.md)
 
 ### 🇬🇧 English
 1. France after the oil crises *(coming soon)*
