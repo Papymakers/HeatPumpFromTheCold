@@ -10,14 +10,19 @@
 3. [Les quatre principes de Suominen](https://github.com/Papymakers/HeatPumpFromTheCold/blob/main/docs/fr/chapitre-03.md)
 4. [Quarante ans après : ce qui a changé, ce qui demeure](https://github.com/Papymakers/HeatPumpFromTheCold/blob/main/docs/fr/chapitre-04.md)
 5. [Comprendre les pompes à chaleur modernes](https://github.com/Papymakers/HeatPumpFromTheCold/blob/main/docs/fr/chapitre-05.md)
-6. [Diagnostique & Dépannage ](https://github.com/Papymakers/HeatPumpFromTheCold/blob/main/docs/fr/chapitre-06.md)
+6. [Diagnostic et dépannage](https://github.com/Papymakers/HeatPumpFromTheCold/blob/main/docs/fr/chapitre-06.md)
+
+→ [Accéder à la documentation complète](docs/fr/README.md)
 
 ### 🇬🇧 English
-1. France after the oil crises *(coming soon)*
-2. Yves Lenoir & Professor Suominen *(coming soon)*
-3. Technical principles *(coming soon)*
-4. Forty years later *(coming soon)*
-5. Understanding modern heat pumps *(coming soon)*
+1. [France after the Oil Crises](https://github.com/Papymakers/HeatPumpFromTheCold/blob/main/docs/en/chapter-01.md)
+2. [Yves Lenoir & Professor Suominen](https://github.com/Papymakers/HeatPumpFromTheCold/blob/main/docs/en/chapter-02.md)
+3. [Suominen's Four Principles](https://github.com/Papymakers/HeatPumpFromTheCold/blob/main/docs/en/chapter-03.md)
+4. [Forty Years Later](https://github.com/Papymakers/HeatPumpFromTheCold/blob/main/docs/en/chapter-04.md)
+5. [Understanding Modern Heat Pumps](https://github.com/Papymakers/HeatPumpFromTheCold/blob/main/docs/en/chapter-05.md)
+6. [Diagnosis and Troubleshooting](https://github.com/Papymakers/HeatPumpFromTheCold/blob/main/docs/en/chapter-06.md)
+
+→ [Access the full documentation](docs/en/README.md)
 
 ---
 
