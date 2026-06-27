@@ -14,14 +14,17 @@ lang: fr
 
 ## Table des matières
 
-1. [La France après les chocs pétroliers](chapitre-01)  
-   *Le contexte énergétique des années 1980, le programme PERCHE et ses échecs.*
+**1. [La France après les chocs pétroliers](chapitre-01)**
 
-2. [Yves Lenoir & le professeur Suominen](chapitre-02)  
-   *Le paradoxe finlandais : pourquoi leurs pompes à chaleur fonctionnaient là où les nôtres échouaient.*
+*Le contexte énergétique des années 1980, le programme PERCHE et ses échecs.*
 
-3. [Les quatre principes de Suominen](chapitre-03)  
-   *De l'intuition des années 1980 à la norme mondiale actuelle.*
+**2. [Yves Lenoir & le professeur Suominen](chapitre-02)**
+
+*Le paradoxe finlandais : pourquoi leurs pompes à chaleur fonctionnaient là où les nôtres échouaient.*
+
+**3. [Les quatre principes de Suominen](chapitre-03)**
+
+*De l'intuition des années 1980 à la norme mondiale actuelle.*
 
 ---
 
