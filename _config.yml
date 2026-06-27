@@ -5,5 +5,5 @@ lang: fr
 baseurl: "/HeatPumpFromTheCold"
 url: "https://papymakers.github.io"
 
-header_pages:
-  - docs/fr/index.md
+minima:
+  header_pages: []
