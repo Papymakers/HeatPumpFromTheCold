@@ -1,10 +1,3 @@
----
-layout: default
-title: "L'évolution de la pompe à chaleur — 40 ans d'innovations"
-description: "Table des matières de la documentation française"
-lang: fr
----
-
 # L'évolution de la pompe à chaleur — 40 ans d'innovations
 
 > Une relecture historique et technique des travaux du professeur Risto Suominen,  
