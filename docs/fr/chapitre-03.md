@@ -6,6 +6,9 @@ Les échecs du programme PERCHE n'étaient pas dus à une faille dans la thermod
 
 Ces quatre principes forment un système cohérent : chacun répond à un défaut spécifique des machines de l'époque, et ensemble ils définissent ce qu'est une pompe à chaleur efficace par grand froid. Quarante ans plus tard, ils sont devenus les fondements de toute l'industrie mondiale.
 
+![Les quatre principes techniques expliqués par le professeur Suominen](../../assets/images/quatre_principes.png)
+*Illustration des quatre principes identifiés par le professeur Suominen pour une pompe à chaleur performante par grand froid. Illustration créée pour ce projet.*
+
 ---
 
 ## Principe 1 — Un évaporateur surdimensionné
