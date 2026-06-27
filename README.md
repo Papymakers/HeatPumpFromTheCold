@@ -1,8 +1,3 @@
----
-layout: default
-title: "Heat Pump From The Cold"
----
-
 > 🇫🇷 [Lire en français](#français) · 🇬🇧 [Read in English](#english)
 
 ---
@@ -13,6 +8,8 @@ title: "Heat Pump From The Cold"
 1. [La France après les chocs pétroliers](docs/fr/chapitre-01)
 2. [Yves Lenoir & le professeur Suominen](docs/fr/chapitre-02)
 3. [Les quatre principes de Suominen](docs/fr/chapitre-03)
+4. [Quarante ans après : ce qui a changé, ce qui demeure](docs/fr/chapitre-04)
+5, [Comprendre le fonctionnement des PAC modernes](docs/fr/chapitre-05) 
 
 ### 🇬🇧 English
 1. France after the oil crises *(coming soon)*
