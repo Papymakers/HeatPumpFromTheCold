@@ -7,9 +7,9 @@
 ## Table des matières / Table of contents
 
 ### 🇫🇷 Français
-1. [La France après les chocs pétroliers](docs/fr/chapitre-01.md)
-2. [Yves Lenoir & le professeur Suominen](docs/fr/chapitre-02.md)
-3. [Les principes techniques](docs/fr/chapitre-03.md)
+1. [La France après les chocs pétroliers](docs/fr/chapitre-01)
+2. [Yves Lenoir & le professeur Suominen](docs/fr/chapitre-02)
+3. [Les principes techniques](docs/fr/chapitre-03)
 
 ### 🇬🇧 English
 1. France after the oil crises *(coming soon)*
