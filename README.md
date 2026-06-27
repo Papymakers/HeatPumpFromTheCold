@@ -5,16 +5,18 @@
 ## Table des matières / Table of contents
 
 ### 🇫🇷 Français
-1. [La France après les chocs pétroliers](docs/fr/chapitre-01)
-2. [Yves Lenoir & le professeur Suominen](docs/fr/chapitre-02)
-3. [Les quatre principes de Suominen](docs/fr/chapitre-03)
-4. [Quarante ans après : ce qui a changé, ce qui demeure](docs/fr/chapitre-04)
-5. [Comprendre le fonctionnement des PAC modernes](docs/fr/chapitre-05) 
+1. [La France après les chocs pétroliers](https://github.com/Papymakers/HeatPumpFromTheCold/blob/main/docs/fr/chapitre-01.md)
+2. [Yves Lenoir & le professeur Suominen](https://github.com/Papymakers/HeatPumpFromTheCold/blob/main/docs/fr/chapitre-02.md)
+3. [Les quatre principes de Suominen](https://github.com/Papymakers/HeatPumpFromTheCold/blob/main/docs/fr/chapitre-03.md)
+4. [Quarante ans après : ce qui a changé, ce qui demeure](https://github.com/Papymakers/HeatPumpFromTheCold/blob/main/docs/fr/chapitre-04.md)
+5. [Comprendre les pompes à chaleur modernes](https://github.com/Papymakers/HeatPumpFromTheCold/blob/main/docs/fr/chapitre-05.md)
 
 ### 🇬🇧 English
 1. France after the oil crises *(coming soon)*
 2. Yves Lenoir & Professor Suominen *(coming soon)*
 3. Technical principles *(coming soon)*
+4. Forty years later *(coming soon)*
+5. Understanding modern heat pumps *(coming soon)*
 
 ---
 
