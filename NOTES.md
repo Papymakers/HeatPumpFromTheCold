@@ -80,6 +80,15 @@
 
 ---
 
+## Articles techniques à venir (papymakers.com)
+
+- `[ ]` **Électronique de puissance des Inverters PAC**
+  → Alimentation monophasée → bus DC → pont triphasé → moteur BLDC
+  → De la SHE (Selective Harmonic Elimination) à la SVPWM
+  → Pourquoi la fréquence variable impose la modulation vectorielle
+  → Dead-time, ripple bus DC, dimensionnement des condensateurs
+  → Niveau : électronicien expérimenté (Papy Makers avancé)
+
 ## Notes stylistiques
 
 - Introduire **COP** (Coefficient de Performance) au ch.1 en remplacement de "rendement apparent"
