@@ -12,8 +12,6 @@
 5. [Comprendre les pompes à chaleur modernes](https://github.com/Papymakers/HeatPumpFromTheCold/blob/main/docs/fr/chapitre-05.md)
 6. [Diagnostic et dépannage](https://github.com/Papymakers/HeatPumpFromTheCold/blob/main/docs/fr/chapitre-06.md)
 
-→ [Accéder à la documentation complète](docs/fr/README.md)
-
 ### 🇬🇧 English
 1. [France after the Oil Crises](https://github.com/Papymakers/HeatPumpFromTheCold/blob/main/docs/en/chapter-01.md)
 2. [Yves Lenoir & Professor Suominen](https://github.com/Papymakers/HeatPumpFromTheCold/blob/main/docs/en/chapter-02.md)
@@ -21,8 +19,6 @@
 4. [Forty Years Later](https://github.com/Papymakers/HeatPumpFromTheCold/blob/main/docs/en/chapter-04.md)
 5. [Understanding Modern Heat Pumps](https://github.com/Papymakers/HeatPumpFromTheCold/blob/main/docs/en/chapter-05.md)
 6. [Diagnosis and Troubleshooting](https://github.com/Papymakers/HeatPumpFromTheCold/blob/main/docs/en/chapter-06.md)
-
-→ [Access the full documentation](docs/en/README.md)
 
 ---
 
