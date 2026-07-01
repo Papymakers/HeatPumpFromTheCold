@@ -17,7 +17,7 @@ Par basse température extérieure, la puissance disponible dans l'air chute. L'
 
 Les machines françaises de l'époque étaient dimensionnées pour fonctionner dans une plage de +5 °C à +15 °C. En dessous, leur évaporateur devenait insuffisant : la machine « manquait d'air » thermiquement, son COP[^1] s'effondrait et elle se mettait en sécurité.
 
-Suominen préconisait au contraire de dimensionner l'évaporateur pour les conditions les plus défavorables — c'est-à-dire pour −20 °C — quitte à ce qu'il soit surdimensionné à température douce. Un évaporateur généreux à +10 °C est simplement très efficace ; le même évaporateur étrique à −20 °C est une machine inutilisable.
+Suominen préconisait au contraire de dimensionner l'évaporateur pour les conditions les plus défavorables — c'est-à-dire pour −20 °C — quitte à ce qu'il soit surdimensionné à température douce. Un évaporateur généreux à +10 °C est simplement très efficace ; le même évaporateur étriqué à −20 °C est une machine inutilisable.
 
 ### L'évolution jusqu'à aujourd'hui
 
